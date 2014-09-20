@@ -6,10 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.*;
 
 import java.util.Random;
 
@@ -27,6 +24,9 @@ public class lbcThreeBasicsOneFreePrem {
         WebDriver driver = new ChromeDriver(options);
 //        Wait<WebDriver> wait = new WebDriverWait(driver, 30);
         driver.get("https://cat6.dev.trainingpeaks.com/account-professional-edition.aspx");
+
+        //Explicit Wait
+        WebDriverWait wait = new WebDriverWait(driver, 30);
 
         //Random String Generator
         String AB = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -147,19 +147,48 @@ public class lbcThreeBasicsOneFreePrem {
         WebElement betaButton = driver.findElement(By.className("beta"));
         betaButton.click();
 
+        // Log into Beta
+
+        //Wait for it ...
+        WebElement betaLoginUNTextBox = wait.until(ExpectedConditions.elementToBeClickable(By.name("Username")));
+
+        //Enter UN
+        betaLoginUNTextBox.sendKeys(userName);
+
+        //Enter PW
+        WebElement betaLoginPWTextBox = driver.findElement(By.name("Password"));
+        betaLoginPWTextBox.sendKeys(passWord);
+
+        //Click Login Button
+        WebElement betaLoginButton = driver.findElement(By.name("submit"));
+        betaLoginButton.click();
+
+        //Wait for Continue To Account
+        //IMPORTANT NOTICE ... NOT PERMANENT
+        WebElement continueToAcct = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[text()='Continue to My Account']")));
+        continueToAcct.click();
+
         //IN BETA APP FROM HERE ON OUT ... BC HTML5 IS WHERE IT IS AT
 
         //Create One Free Premium Client
 
-        //Explicit Wait for Athlete Library Button
-        WebDriverWait wait = new WebDriverWait(driver, 10);
+        //Wait for it ...
+        WebElement featureTourCloseIcon = wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//i[contains(@class, 'closeIcon')]")));
+
+        if (featureTourCloseIcon.isDisplayed()) {
+            featureTourCloseIcon.click();
+        }
+
+
+
+        //Declare Athlete Button
         WebElement athleteLibraryButton = wait.until(ExpectedConditions.elementToBeClickable(By.id("athleteLibrary")));
 
         //Click Athlete Library
         athleteLibraryButton.click();
 
         //Click My Athletes Title
-        WebElement myAthleteTitle = driver.findElement(By.className("groupTitle"));
+        WebElement myAthleteTitle = wait.until(ExpectedConditions.elementToBeClickable(By.className("groupTitle")));
         myAthleteTitle.click();
 
         //Click Athlete List Settings
@@ -167,7 +196,7 @@ public class lbcThreeBasicsOneFreePrem {
         athleteListSettings.click();
 
         //Click Add Athlete
-        WebElement addAthlete = driver.findElement(By.className("addAthlete"));
+        WebElement addAthlete = wait.until(ExpectedConditions.elementToBeClickable(By.className("addAthlete")));
         addAthlete.click();
 
         //Create Athlete
@@ -218,23 +247,35 @@ public class lbcThreeBasicsOneFreePrem {
 
         //Create 3 Basic Clients
         for (int i = 0; i < 3; i++) {
+
             myAthleteTitle.click();
             athleteListSettings.click();
-            addAthlete.click();
+            WebElement addAthlete2 = wait.until(ExpectedConditions.elementToBeClickable(By.className("addAthlete")));
+            addAthlete2.click();
             WebElement userTypeRadioBasic = driver.findElement(By.xpath("//label[contains(.,' Basic')]/input"));
             userTypeRadioBasic.click();
             String clientUserTypeBasic = "Basic";
             String clientUserFirstNameBasic = clientUserTypeBasic + "User";
             String clientUserLastNameBasic = clientUserTypeBasic + "Athlete";
             String newClientUserFullNameBasic = clientUserFirstNameBasic + " " + clientUserLastNameBasic + sb + i;
-            clientUserFirstLastNameTextBox.sendKeys(newClientUserFullNameBasic);
-            athleteDropDown.selectByValue("4");
-            clientUserEmailTextBox.sendKeys(clientUserEmail);
+            WebElement clientUserFirstLastNameTextBox2 = driver.findElement(By.name("firstAndLastName"));
+            clientUserFirstLastNameTextBox2.sendKeys(newClientUserFullNameBasic);
+            Select genderDropDown2 = new Select(driver.findElement(By.name("gender")));
+            genderDropDown2.selectByValue("0");
+            Select athleteDropDown2 = new Select(driver.findElement(By.name("athleteType")));
+            athleteDropDown2.selectByValue("4");
+            WebElement clientUserEmailTextBox2 = driver.findElement(By.name("email"));
+            clientUserEmailTextBox2.sendKeys(clientUserEmail);
             String clientUserUserNameBasic = clientUserFirstNameBasic+clientUserLastNameBasic+sb+i;
-            clientUserUserNameTextBox.sendKeys(clientUserUserNameBasic);
-            createAthleteContinueButton.click();
-            createAthleteSaveButton.click();
-            createAthleteOKButton.click();
+            WebElement clientUserUserNameTextBox2 = driver.findElement(By.name("username"));
+            clientUserUserNameTextBox2.sendKeys(clientUserUserNameBasic);
+            WebElement createAthleteContinueButton2 = driver.findElement(By.xpath("//button[contains(.,'Continue')]"));
+            createAthleteContinueButton2.click();
+            WebElement createAthleteSaveButton2 = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[contains(.,'Save & Close')]")));
+            createAthleteSaveButton2.click();
+            WebElement createAthleteOKButton2 = wait.until(ExpectedConditions.elementToBeClickable(By.name("ok")));
+            createAthleteOKButton2.click();
+
         }
 
 
