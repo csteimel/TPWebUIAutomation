@@ -23,31 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ubcFifteenBasicsOneFreePremOnePaidPrem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcFifteenBasicsOneFreePremOnePaidPrem.java">
+      <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="3915">
-              <caret line="223" column="0" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="810">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoachBuySubscription.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachBuySubscription.java">
+      <file leaf-file-name="CoachDemoSignUp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachDemoSignUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6230032" vertical-offset="75" max-vertical-offset="2145">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lbcThreeBasicsOneFreePrem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcThreeBasicsOneFreePrem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="4350">
-              <caret line="149" column="24" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="3600">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,59 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ubcSixteenBasics.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcSixteenBasics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="3525">
-              <caret line="158" column="46" selection-start-line="158" selection-start-column="46" selection-end-line="158" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ubcFifteenBasicsOneFreePrem.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ubcFifteenBasicsOneFreePrem.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcFifteenBasicsOneFreePrem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="4275">
-              <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="8.678161" vertical-offset="75" max-vertical-offset="4125">
+              <caret line="166" column="86" selection-start-line="166" selection-start-column="86" selection-end-line="166" selection-end-column="137" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lbcFourBasics.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcFourBasics.java">
+      <file leaf-file-name="LoginPremUser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/LoginPremUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2149" max-vertical-offset="3570">
-              <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lbcThreeBasicsOneFreePremOnePaidPrem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcThreeBasicsOneFreePremOnePaidPrem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2745" max-vertical-offset="4080">
-              <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lbcOneFreePremFourPaidPrem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcOneFreePremFourPaidPrem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2700" max-vertical-offset="3495">
-              <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="495">
+              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,9 +81,7 @@
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/LogInTest.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/CreateFiveDemoCoachesNow.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utitls.java" />
-        <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utils.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachBuySubscription.java" />
-        <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachDemoSignUp.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcThreeBasicsOneFreePremOnePaidPrem.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcThreeBasicsOneFreePrem.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcFourBasics.java" />
@@ -139,13 +89,17 @@
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcSixteenBasics.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/lbcOneFreePremFourPaidPrem.java" />
         <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcFifteenBasicsOneFreePremOnePaidPrem.java" />
+        <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachDemoSignUp.java" />
+        <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/LoginPremUser.java" />
+        <option value="$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utils.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1804" />
-    <option name="height" value="762" />
+    <option name="width" value="1436" />
+    <option name="height" value="602" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -233,51 +187,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.CoachBuySubscription.testCoachBuySubscription">
-    <configuration default="false" name="ubcSixteenBasics.testubcSixteenBasics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-drunken-selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.googlecode.selenium.mds" />
-      <option name="MAIN_CLASS_NAME" value="com.googlecode.selenium.mds.ubcSixteenBasics" />
-      <option name="METHOD_NAME" value="testubcSixteenBasics" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="lbcThreeBasicsOneFreePremOnePaidPrem.testlbcThreeBasicsOneFreePremOnePaidPrem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="my-drunken-selenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.googlecode.selenium.mds" />
-      <option name="MAIN_CLASS_NAME" value="com.googlecode.selenium.mds.lbcThreeBasicsOneFreePremOnePaidPrem" />
-      <option name="METHOD_NAME" value="testlbcThreeBasicsOneFreePremOnePaidPrem" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.LoginPremUser">
     <configuration default="false" name="lbcOneFreePremFourPaidPrem.testlbcOneFreePremFourPaidPrem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="my-drunken-selenium" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -344,6 +254,50 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="LoginPremUser.testLoginPremUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-drunken-selenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.googlecode.selenium.mds" />
+      <option name="MAIN_CLASS_NAME" value="com.googlecode.selenium.mds.LoginPremUser" />
+      <option name="METHOD_NAME" value="testLoginPremUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoginPremUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-drunken-selenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.googlecode.selenium.mds" />
+      <option name="MAIN_CLASS_NAME" value="com.googlecode.selenium.mds.LoginPremUser" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -379,6 +333,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -404,19 +371,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -474,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ubcSixteenBasics.testubcSixteenBasics" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.lbcThreeBasicsOneFreePremOnePaidPrem.testlbcThreeBasicsOneFreePremOnePaidPrem" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.lbcOneFreePremFourPaidPrem.testlbcOneFreePremFourPaidPrem" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ubcFifteenBasicsOneFreePremOnePaidPrem.testubcFifteenBasicsOneFreePremOnePaidPrem" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CoachBuySubscription.testCoachBuySubscription" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.lbcOneFreePremFourPaidPrem.testlbcOneFreePremFourPaidPrem" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ubcFifteenBasicsOneFreePremOnePaidPrem.testubcFifteenBasicsOneFreePremOnePaidPrem" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CoachBuySubscription.testCoachBuySubscription" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LoginPremUser.testLoginPremUser" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LoginPremUser" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CoachBuySubscription.testCoachBuySubscription" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ubcFifteenBasicsOneFreePremOnePaidPrem.testubcFifteenBasicsOneFreePremOnePaidPrem" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.lbcOneFreePremFourPaidPrem.testlbcOneFreePremFourPaidPrem" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.lbcThreeBasicsOneFreePremOnePaidPrem.testlbcThreeBasicsOneFreePremOnePaidPrem" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ubcSixteenBasics.testubcSixteenBasics" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LoginPremUser" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LoginPremUser.testLoginPremUser" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CoachBuySubscription.testCoachBuySubscription" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ubcFifteenBasicsOneFreePremOnePaidPrem.testubcFifteenBasicsOneFreePremOnePaidPrem" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.lbcOneFreePremFourPaidPrem.testlbcOneFreePremFourPaidPrem" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -507,7 +461,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1804" height="762" extended-state="0" />
+    <frame x="4" y="22" width="1436" height="602" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -517,22 +471,22 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47474748" sideWeight="0.23392461" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3846154" sideWeight="0.23467967" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24442896" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275649" sideWeight="0.4991077" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32645404" sideWeight="0.49860725" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09922395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47474748" sideWeight="0.76552105" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24442896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3846154" sideWeight="0.76532036" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -559,14 +513,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachBuySubscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1941" max-vertical-offset="2295">
-          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CheeseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="609" max-vertical-offset="1230">
@@ -837,13 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CheeseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="609" max-vertical-offset="1230">
@@ -851,18 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachDemoSignUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1237" max-vertical-offset="3390">
-          <caret line="105" column="59" selection-start-line="104" selection-start-column="8" selection-end-line="105" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/my-drunken-selenium/lib/selenium-server-standalone-2.42.2.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8798521" vertical-offset="619" max-vertical-offset="1185">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,9 +801,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="4350">
           <caret line="149" column="24" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -880,19 +809,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2149" max-vertical-offset="3570">
           <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcFifteenBasicsOneFreePrem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="4275">
-          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -900,9 +817,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="3525">
           <caret line="158" column="46" selection-start-line="158" selection-start-column="46" selection-end-line="158" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -910,9 +825,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2745" max-vertical-offset="4080">
           <caret line="187" column="0" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,9 +833,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2700" max-vertical-offset="3495">
           <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -936,8 +847,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachBuySubscription.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6230032" vertical-offset="75" max-vertical-offset="2145">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="2145">
+          <caret line="27" column="91" selection-start-line="21" selection-start-column="8" selection-end-line="27" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/LoginPremUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="495">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="810">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/CoachDemoSignUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="3600">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/googlecode/selenium/mds/ubcFifteenBasicsOneFreePrem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.678161" vertical-offset="75" max-vertical-offset="4125">
+          <caret line="166" column="86" selection-start-line="166" selection-start-column="86" selection-end-line="166" selection-end-column="137" />
           <folding />
         </state>
       </provider>
